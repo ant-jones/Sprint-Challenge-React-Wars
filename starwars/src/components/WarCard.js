@@ -22,7 +22,7 @@ const WarCard = props => {
             
             <h2>My name is {props.name}</h2>
             
-            <p>I am {props.gender}, I was born in {props.birthday}, I have {props.eyes} eyes</p>
+            <h5>I am {props.gender}, I was born in {props.birthday}, I have {props.eyes} eyes</h5>
              
         </CardWar>
         
